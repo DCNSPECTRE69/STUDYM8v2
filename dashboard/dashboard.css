@@ -1,0 +1,9 @@
+*::after{
+  content: "";
+  clear: both;
+  display: table;
+}
+
+div, form, input{
+  box-sizing: border-box;
+}
